@@ -2,8 +2,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=4542elgh.4542elgh)
-
 Talking about Personal stuff:  
 * I'm currently working on something cool!  
 * I am an Emacs user! (No its not a stone age editor)  
