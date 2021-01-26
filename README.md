@@ -11,6 +11,7 @@ Talking about Personal stuff:
 * Currently learning Golang and a little bit of Rust  
 * Check out my [website](https://www.evanmingliu.com)!  
 * Here is my [resume](https://www.evanmingliu.com/resume/resume.pdf)
+* You can find me on [LinkedIn](https://www.linkedin.com/in/mingyangliu97/)
 
 **Languages and Tools:**
 <br><br>
