@@ -1,8 +1,9 @@
 ![Header](./Header.png)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=4542elgh.4542elgh)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <br><br>
 Talking about Personal stuff:  
 * I'm currently working on something cool!  
@@ -27,7 +28,7 @@ Talking about Personal stuff:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />  
 <br>
-**Github Status**
+**Github Status:**
 <br><br>
 [![Evan's github stats](https://github-readme-stats.vercel.app/api?username=4542elgh)](https://github.com/4542elgh)
 
