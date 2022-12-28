@@ -3,9 +3,9 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 Talking about Personal stuff:  
-* I'm currently working on something cool!  
-* I am an Emacs user! (No its not a stone age editor)  
-> I was on the quest searching for a faster way to edit text than VSCode. Then, Vim appear to be the way to go for me for a solid year. It is still my go to application when I ssh to servers. On my main rig, I have Emacs with Evil Mode enabled for those sweet sweet VIM key binding while also have the freedom to use plugins within Emacs. <br><br> In fact, this README is written completely in Emacs.  
+* I'm always working on something cool!  
+* I am an ~~Emacs~~ VIM user! (No its not a stone age editor)  
+> I was on the quest searching for a faster way to edit text than VSCode. Then, Nvim appear to be the way to go for me for a solid year. Then Emacs shows up but elisp parentheses syntax is just not right for me. Lua on the other hand, is more appealing to me and I even made a few Nvim plugins with Lua too. <br><br>
 * Currently learning Golang and a little bit of Rust  
 * Check out my [dotfile](https://github.com/4542elgh/Dotfiles)!  
 * Check out my [website](https://www.evanmingliu.com)!  
